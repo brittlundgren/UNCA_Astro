@@ -15,7 +15,7 @@ git init
 ```
 Create an alias for the repository
 ```bash
-git remote add origin git@github.com:brittlundgren/UNCA_astro.git
+git remote add origin git@github.com:brittlundgren/UNCA_Astro.git
 ```
 Pull the master branch.
 ```bash
