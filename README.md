@@ -1,2 +1,2 @@
 # UNCA_pyastro
-Undergraduate observational astronomy resources for ASTR 411 Fall 2016 at the University of North Carolina - Asheville
+Undergraduate observational astronomy resources for ASTR 411 at the University of North Carolina - Asheville (Fall 2016 version)
